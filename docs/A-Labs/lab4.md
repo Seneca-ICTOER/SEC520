@@ -34,7 +34,7 @@ In this lab, students will learn **other methods of vulnerability testing** to g
 
 ### Prerequisites
 
-[SEC520 Lab 3](./lab3.md)
+- [SEC520 Lab 3](./lab3.md)
 
 ### Online Tools and References
 
