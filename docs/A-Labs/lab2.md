@@ -73,7 +73,7 @@ description: Lab 2 for Students to Complete and Submit
 
 ### Course Notes
 
-- [odp](/sec520_w1_l2.odp)| [pdf](/slides/sec520_w1_l2.pdf)| [ppt](/slides/sec520_w1_l2.ppt) (Slides: Reconnaissance)
+- [odp](/slides/sec520_w1_l2.odp)| [pdf](/slides/sec520_w1_l2.pdf)| [ppt](/slides/sec520_w1_l2.ppt) (Slides: Reconnaissance)
 - [Reconnaissance](http://www.youtube.com/watch?v=AHEt0mUZH_0) (YouTube Video)
 - [Penetration Tester's Open Source Toolkit (E-book)](http://libcat.senecac.on.ca/vwebv/holdingsInfo?searchId=89542&recCount=50&recPointer=0&bibId=315433) (Chapter 2: Reconnaissance)
 
