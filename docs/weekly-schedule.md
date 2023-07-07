@@ -104,10 +104,71 @@ description: Weekly Schedule for SEC520
 | --- | --- | --- |
 | **Moved until after the break** | **Slides (Concepts):** | Assignment #1: [Assignment Instructions](/B-Assignments/assignment1.md) |
 | **Hardening Windows 7/8/10:** | [\[odp\]](/slides/sec520_w3_l1.odp) [\[pdf\]](/slides/sec520_w3_l1.pdf) [\[ppt\]](/slides/sec520_w3_l1.ppt) Hardening - Basic Concepts | Continue working on [Lab 4](/A-Labs/lab4.md) and install Webgoat |
-| - Installing and Configuring Security Configuration Wizard | [\[odp\]](http://cs.senecac.on.ca/~fac/sec520/labs/sec520_lab5.odp) [\[pdf\]](http://cs.senecac.on.ca/~fac/sec520/labs/sec520_lab5.pdf) [\[ppt\]](http://cs.senecac.on.ca/~fac/sec520/labs/sec520_lab5.pptx) Hardening Windows | Quiz 2 (February 22) |
+| - Installing and Configuring Security Configuration Wizard | [\[odp\]](/files/sec520_lab5.odp) [\[pdf\]](/files/sec520_lab5.pdf) [\[ppt\]](/files/sec520_lab5.pptx) Hardening Windows | Quiz 2 (February 22) |
 | - Using New Technology File System (NTSF) | **Reading References:** |  |
 | - Configuring Automatic Updates | - [Intrusion Discovery - Windows](https://www.sans.org/media/score/checklists/ID-Windows.pdf) |  |
 | **Test #1: Details, March 6th** | - [Hardening Windows, 2nd Edition](http://lcweb.senecac.on.ca:2052/toc.aspx?site=RYW9D&bookid=12602) (Chapter 5 - Pages: ) |  |
 |  | - ["Know Your Enemy: The Script Kiddie"](http://old.honeynet.org/papers/enemy/) |  |
 |  | **YouTube Videos:** [Blind MySQL injection video](https://www.youtube.com/watch?v=Rqt_BgG5YyI) |  |
 |  | **Resources:** |  |
+
+## Week 7
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+| **Midterm (Test #1 March 6th):** | **Slides (Concepts):** | **Additional Tasks:** |
+| - (Check course announcements for test details) | [Lab 5: Hardening Windows 7/8/10](/A-Labs/lab5.md) |  |
+|  |  | Work on [Assignment #1](/B-Assignments/assignment1.md) |
+
+## Study Week
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+|  |  |  |
+
+## Week 8
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+| **Types of Penetration Testing:** | **Slides (Concepts): See Blackboard** | [Lab 6: Work on vulnerable Windows 7 VM CTF](/A-Labs/lab6.md) |
+| - Network | [Lab 5: Hardening Windows 7/8/10](/A-Labs/lab5.md) | [Assignment #1](/B-Assignments/assignment1.md) **Due** |
+| - Access Control |  |  |
+| - Infrastructure / Patching |  |  |
+| - Physical/Building Security |  |  |
+| - Social Engineering |  |  |
+
+## Week 9
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+| **Passwords, Pwn'ing, & Pillaging** | **Slides (Concepts): See Blackboard** | [Lab 7: Continue to work on vulnerable Windows 7 VM CTF](/A-Labs/lab7.md) |
+
+## Week 10
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+| **Metasploit and Metasploitable 2** |  | Labs: |
+
+## Week 11
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+|  |  | [Lab 8: ](/A-Labs/lab8.md) |
+
+## Week 12
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+| **Work on Assignment #2:** Complete Report |  | [Assignment #2](/B-Assignments/assignment2.md) Due: |
+
+## Week 13
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+| **Final Exam Review:** Details |  |  |
+
+## Exam Week
+
+| Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
+| --- | --- | --- |
+|  |  |  |
