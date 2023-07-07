@@ -48,8 +48,8 @@ description: Weekly Schedule for SEC520
 | - 4 Virtues of Internet Security | **Reading References:** |  |
 | - 8 Rules of Internet Security | - [Inside the Security Mind, Making the Tough Decisions (E-Book)](http://libcat.senecac.on.ca/vwebv/holdingsInfo?searchId=86056&recCount=50&recPointer=0&bibId=263746) (Chapters 1 - 3) |  |
 | - Penetration Testing: | - [Penetration Tester's Open Source Toolkit (E-book)](http://libcat.senecac.on.ca/vwebv/holdingsInfo?searchId=89542&recCount=50&recPointer=0&bibId=315433) (Chapter 2: Reconnaissance) |  |
-|   -- Reconnaissance: | **YouTube Videos:** [Reconnaissance](http://www.youtube.com/watch?v=NDQffaAMLQc) |  |
-|     --- Information Gathering | |  |
-|     --- Foot-printing |  |  |
-|     --- User Information |  |  |
-|     --- Verification |  |  |
+|   - Reconnaissance: | **YouTube Videos:** [Reconnaissance](http://www.youtube.com/watch?v=NDQffaAMLQc) |  |
+|     - Information Gathering | |  |
+|     - Foot-printing |  |  |
+|     - User Information |  |  |
+|     - Verification |  |  |
