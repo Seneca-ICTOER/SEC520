@@ -53,8 +53,8 @@ Students will obtain information from reconnaissance of their vulnerable VMs (IP
 
 ### Course Notes / Resources
 
-- [odp](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w2_l1.odp) | [pdf](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w2_l1.pdf) | [ppt](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w2_l1.ppt) (Slides: Scanning & Enumeration)
-- [odp](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w2_l2.odp) | [pdf](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w2_l2.pdf) | [ppt](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w2_l2.ppt) (Slides: Vulnerability Testing)
+- [odp](/slides/sec520_w2_l1.odp) | [pdf](/slides/sec520_w2_l1.pdf) | [ppt](/slides/sec520_w2_l1.ppt) (Slides: Scanning & Enumeration)
+- [odp](/slides/sec520_w2_l2.odp) | [pdf](/slides/sec520_w2_l2.pdf) | [ppt](/slides/sec520_w2_l2.ppt) (Slides: Vulnerability Testing)
 - [Scanning 1](http://www.youtube.com/watch?v=_Ch0RJlHFBo) | [Scanning 2](http://www.youtube.com/watch?v=WKLNAAt57Wg) | [Enumeration](http://www.youtube.com/watch?v=_Ch0RJlHFBo) | [Vulnerability Testing - Overview](https://www.youtube.com/watch?v=FMgAIfcPsyw) (YouTube Videos)
 - [Installing Nessus in Kali Linux](http://www.youtube.com/watch?v=BDTLdCllfr4) (YouTube Video)
 - [Using Nessus in Kali Linux](http://www.youtube.com/watch?v=QjuyasD1aBE) (YouTube Video)

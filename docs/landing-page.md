@@ -61,7 +61,7 @@ Demonstration web servers for both **Windows** and **Unix/Linux** will be invest
 
 | Item	| Item Details	| Graphic |
 | --- | --- | --- |
-| **Lab Log-Book**	| Download and Print: **SEC520 Lab log book** [\[PDF\]](http://cs.senecac.on.ca/~murray.saul/SEC520/SEC520_lab_logbook.pdf) [\[odt\]](http://cs.senecac.on.ca/~murray.saul/SEC520/SEC520_lab_logbook.odt). | ![Logbook](/img/Log-book.png) |
+| **Lab Log-Book**	| Download and Print: **SEC520 Lab log book** [\[PDF\]](/files/SEC520_lab_logbook.pdf) [\[odt\]](/files/SEC520_lab_logbook.odt). | ![Logbook](/img/Log-book.png) |
 |  | Please note that **you can use your log book during quizzes, written tests, practical tests and the final exam.** | **Lab Log-Book**: Used for **marking labs** and for an **evaluation aid** |
 |  | It's also the record that you have completed the labs, so don't lose it!	|  |
 

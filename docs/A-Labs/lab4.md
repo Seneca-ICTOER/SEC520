@@ -44,7 +44,7 @@ In this lab, students will learn **other methods of vulnerability testing** to g
 
 ### Course Notes
 
-- [odp](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w7_l1.odp) | [pdf](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w7_l1.pdf) | [ppt](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w7_l1.ppt) (Slides: Types of Attacks)
+- [odp](/slides/sec520_w7_l1.odp) | [pdf](/slides/sec520_w7_l1.pdf) | [ppt](/slides/sec520_w7_l1.ppt) (Slides: Types of Attacks)
 - [Phishing](http://www.youtube.com/watch?v=ZUygX8TBBw0) | [Malicious Payload](http://www.youtube.com/watch?v=PqfZM3Lxrmg) | [IP Spoofing](http://www.youtube.com/watch?v=-hd7XG-b6uk) | [Database Injection](http://www.youtube.com/watch?v=AhTfo6pWBIM) (YouTube Videos)
 
 ## Performing Lab 4

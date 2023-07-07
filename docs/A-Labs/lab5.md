@@ -43,7 +43,7 @@ In the previous two labs, you should have learned how to penetrate your vulnerab
 
 ### Course Notes
 
-- [odp](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w8_l1.odp) | [pdf](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w8_l1.pdf) | [ppt](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w8_l1.ppt) (Slides: Hardening Windows 2003 Server)
+- [odp](/slides/sec520_w8_l1.odp) | [pdf](/slides/sec520_w8_l1.pdf) | [ppt](/slides/sec520_w8_l1.ppt) (Slides: Hardening Windows 2003 Server)
 - [Hardening Windows Second Edition (E-book)](http://lcweb.senecac.on.ca:2052/assetviewer.aspx?bookid=12602&chunkid=978290911&rowid=177) (Chapter 5)
 - YouTube Video: [Security Configuration Wizard 2003](http://www.youtube.com/watch?v=df1_yx2fa8g)
 

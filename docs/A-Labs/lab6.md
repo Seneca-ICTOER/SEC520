@@ -42,7 +42,7 @@ description: Lab 6 for Students to Complete and Submit
 
 ### Course Notes
 
-- [odp](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w3_l1.odp) | [pdf](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w3_l1.pdf) | [ppt](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w3_l1.ppt) (Slides: Linux Hardening - part 1)
+- [odp](/slides/sec520_w3_l1.odp) | [pdf](/slides/sec520_w3_l1.pdf) | [ppt](/slides/sec520_w3_l1.ppt) (Slides: Linux Hardening - part 1)
 - [Understanding and Configuring PAM](http://www.ibm.com/developerworks/linux/library/l-pam/index.html)
 
 ## Performing Lab 6

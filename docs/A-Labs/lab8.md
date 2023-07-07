@@ -41,7 +41,7 @@ description: Lab 8 for Students to Complete and Submit
 
 ### Course Notes
 
-- [odp](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w9_l1.odp) | [pdf](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w9_l1.pdf) | [ppt](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w9_l1.ppt) (Slides: Intrusion Detection)
+- [odp](/slides/sec520_w9_l1.odp) | [pdf](/slides/sec520_w9_l1.pdf) | [ppt](/slides/sec520_w9_l1.ppt) (Slides: Intrusion Detection)
 
 ## Performing Lab 8
 

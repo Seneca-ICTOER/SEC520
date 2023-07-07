@@ -40,7 +40,7 @@ description: Lab 7 for Students to Complete and Submit
 
 ### Course Notes
 
-- [odp](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w4_l1.odp) | [pdf](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w4_l1.pdf) | [ppt](http://cs.senecac.on.ca/~fac/sec520/slides/sec520_w4_l1.ppt) (Slides: Linux System Hardening - part 2)
+- [odp](/slides/sec520_w4_l1.odp) | [pdf](/slides/sec520_w4_l1.pdf) | [ppt](/slides/sec520_w4_l1.ppt) (Slides: Linux System Hardening - part 2)
 
 ## Performing Lab 7
 
