@@ -87,14 +87,15 @@ description: Weekly Schedule for SEC520
 | Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
 | --- | --- | --- |
 | **Types of Attacks:** | **Slides (Concepts):** [\[odp\]](/slides/sec520_w7_l1.odp) [\[pdf\]](/slides/sec520_w7_l1.pdf) [\[ppt\]](/slides/sec520_w7_l1.ppt) Types of Attacks | [Lab 4: Attack Categories: Types of Attacks](/A-Labs/lab4.md) |
-| - Client-side Attacks | **Reading References:** [Penetration Tester's Open Source Toolkit (E-book)](http://libcat.senecac.on.ca/vwebv/holdingsInfo?searchId=89542&recCount=50&recPointer=0&bibId=315433) (Chapter 4,5,6) | **WARNINGS!** |
+| - Client-side Attacks: | **Reading References:** [Penetration Tester's Open Source Toolkit (E-book)](http://libcat.senecac.on.ca/vwebv/holdingsInfo?searchId=89542&recCount=50&recPointer=0&bibId=315433) (Chapter 4,5,6) | **WARNINGS!** |
 |     - Phishing | **YouTube Videos:** | 1. **Scanning ports must require the permission of Server Owner** (preferably in writing). Student must either work in Security lab to scan each others' ports, or sign an agreement to scan any server. |
 |     - Webbrowser - Malicious Payloads | - [Phishing](http://www.youtube.com/watch?v=ZUygX8TBBw0) |  |
-|     - IP Spoofing (Man in the Middle) / Password | - [IP Spoofing](http://www.youtube.com/watch?v=-hd7XG-b6uk) |  |
-| - Server-side Attacks | - [Database Injection](http://www.youtube.com/watch?v=AhTfo6pWBIM) |  |
-|     - Out-dated Software Patches | - [Password Cracking](http://www.youtube.com/watch?v=Iyh_w0Ix2bc) |  |
-|     - Database Injection | **Resources:**  |  |
-|     - Password Cracking | - [ATLAS Web-page](http://atlas.arbor.net/) (Active Threat Level Analysis System) |  |
+|     - IP Spoofing (Man in the Middle) / Password | - [Malicious Payload](http://www.youtube.com/watch?v=PqfZM3Lxrmg) |  |
+| - Server-side Attacks: | - [IP Spoofing](http://www.youtube.com/watch?v=-hd7XG-b6uk) |  |
+|     - Out-dated Software Patches | - [Database Injection](http://www.youtube.com/watch?v=AhTfo6pWBIM) |  |
+|     - Database Injection | - [Password Cracking](http://www.youtube.com/watch?v=Iyh_w0Ix2bc) |  |
+|     - Password Cracking | **Resources:**  |  |
+|  | - [ATLAS Web-page](http://atlas.arbor.net/) (Active Threat Level Analysis System) |  |
 |  | - [Top Security Risks 2009 (SANS Institute)](http://www.sans.org/top-cyber-security-risks/summary.php) |  |
 |  | - [Webgoat](https://github.com/WebGoat/WebGoat/wiki) |  |
 
@@ -107,7 +108,7 @@ description: Weekly Schedule for SEC520
 | - Installing and Configuring Security Configuration Wizard | [\[odp\]](/files/sec520_lab5.odp) [\[pdf\]](/files/sec520_lab5.pdf) [\[ppt\]](/files/sec520_lab5.pptx) Hardening Windows | Quiz 2 (February 22) |
 | - Using New Technology File System (NTSF) | **Reading References:** |  |
 | - Configuring Automatic Updates | - [Intrusion Discovery - Windows](https://www.sans.org/media/score/checklists/ID-Windows.pdf) |  |
-| **Test #1: Details, March 6th** | - [Hardening Windows, 2nd Edition](http://lcweb.senecac.on.ca:2052/toc.aspx?site=RYW9D&bookid=12602) (Chapter 5 - Pages: ) |  |
+| **Test #1: Details, March 6th** | - [Hardening Windows, 2nd Edition](http://lcweb.senecac.on.ca:2052/toc.aspx?site=RYW9D&bookid=12602) (Chapter 5 - Pages:) |  |
 |  | - ["Know Your Enemy: The Script Kiddie"](http://old.honeynet.org/papers/enemy/) |  |
 |  | **YouTube Videos:** [Blind MySQL injection video](https://www.youtube.com/watch?v=Rqt_BgG5YyI) |  |
 |  | **Resources:** |  |
@@ -116,9 +117,8 @@ description: Weekly Schedule for SEC520
 
 | Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
 | --- | --- | --- |
-| **Midterm (Test #1 March 6th):** | **Slides (Concepts):** | **Additional Tasks:** |
-| - (Check course announcements for test details) | [Lab 5: Hardening Windows 7/8/10](/A-Labs/lab5.md) |  |
-|  |  | Work on [Assignment #1](/B-Assignments/assignment1.md) |
+| **Midterm (Test #1 March 6th):** |  | [Lab 5: Hardening Windows 7/8/10](/A-Labs/lab5.md) |
+| - (Check course announcements for test details) |  | Work on [Assignment #1](/B-Assignments/assignment1.md) |
 
 ## Study Week
 
@@ -131,7 +131,7 @@ description: Weekly Schedule for SEC520
 | Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
 | --- | --- | --- |
 | **Types of Penetration Testing:** | **Slides (Concepts): See Blackboard** | [Lab 6: Work on vulnerable Windows 7 VM CTF](/A-Labs/lab6.md) |
-| - Network | [Lab 5: Hardening Windows 7/8/10](/A-Labs/lab5.md) | [Assignment #1](/B-Assignments/assignment1.md) **Due** |
+| - Network |  | [Assignment #1](/B-Assignments/assignment1.md) **Due** |
 | - Access Control |  |  |
 | - Infrastructure / Patching |  |  |
 | - Physical/Building Security |  |  |
@@ -147,7 +147,7 @@ description: Weekly Schedule for SEC520
 
 | Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
 | --- | --- | --- |
-| **Metasploit and Metasploitable 2** |  | Labs: |
+| **Metasploit and Metasploitable 2** |  | **Labs:** |
 
 ## Week 11
 
