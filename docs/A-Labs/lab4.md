@@ -129,7 +129,7 @@ Here is how simple (subtle) it can be:
 
 5. We could then send this HTML file via an e-mail to the user (in this case masquerading as a facebook notification. You could simulate this attack for demonstration by creating the html file in your Windows server, and load this file with a web-browser (like Internet Explorer).
 
-    - Another approach would be to send a "phony" notification with links to the facebook "login" page with the <iframe> element.
+    - Another approach would be to send a "phony" notification with links to the facebook "login" page with the <iframe\> element.
 
 14. Proceed to Task #2
 
