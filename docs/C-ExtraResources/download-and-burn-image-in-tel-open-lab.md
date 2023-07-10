@@ -35,7 +35,7 @@ Follow the instructions below to download and burn your **Fedora 16 DVD** and **
 6. Download the appropriate Image to your Windows Desktop:
 
     - **Kali Linux**: http://www.kali.org/downloads/
-    - Fedora Core 5: http://dl.fedoraproject.org/pub/archive/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
+    - **Fedora Core 5**: http://dl.fedoraproject.org/pub/archive/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso
     - **Windows 2003 Server (Enterprise and Standard 32-bit)**: https://inside.senecac.on.ca/clientservices
         - (Select **Software Access -\> Software Downloads -\> MSDN**)
         - (Select Downloads, then select MSDN and log in with your user name and password. Download a key for the product , using same URL as above, then select Licences, then enter username and password, and accept the license agreement.)
