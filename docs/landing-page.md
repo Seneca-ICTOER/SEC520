@@ -8,6 +8,16 @@ description: Landing Page for SEC520
 
 # Welcome to SEC520 - Internet Security
 
+## Quick Links
+
+| [Weekly Schedule](./weekly-schedule.md) | [Course Outline](https://scs.senecac.on.ca/course/sec520) | [Course Policies](/C-ExtraResources/course-policies.md) | Security Resources | Security Community | Instructor Resource |
+| --- | --- | --- | --- | --- | --- |
+
+## Assignments
+
+| [Assignment 1](/B-Assignments/assignment1.md) | [Assignment 2](/B-Assignments/assignment2.md) |
+| --- | --- |
+
 ## What This Course is About
 
 This subject explores issues surrounding **web site construction**, **operation**, and **maintenance** from a **security point of view**. Students will learn how to:
@@ -52,10 +62,10 @@ Demonstration web servers for both **Windows** and **Unix/Linux** will be invest
 | --- | --- |
 | **Kali Linux CD**: | **USB keys to Installation Media** (Alternative to CD/DVD) |
 | - **Download URL (Select for appropriate machine 32/64-bit)**: http://www.kali.org/downloads/ |  |
-| - Download and Burn Image in TEL Open Lab (ADD LINK) |  |
+| - [Download and Burn Image in TEL Open Lab](/C-ExtraResources/download-and-burn-image-in-tel-open-lab.md) |  |
 | **Fedora Core 7 or Centos 7 DVD:** |  |
 | - Download URL: http://dl.fedoraproject.org/pub/archive/fedora/linux/core/5/i386/iso/FC-5-i386-DVD.iso |  |
-| - Download and Burn Image in TEL Open Lab (ADD LINK) |  |
+| - [Download and Burn Image in TEL Open Lab](/C-ExtraResources/download-and-burn-image-in-tel-open-lab.md) |  |
 
 ### Study Aids
 
@@ -93,7 +103,7 @@ The work you do in this course will render your other work inaccessible and may 
 
 Seemingly "small errors", or "skipping instructions" in earlier labs can have negative consequences when performing other dependent labs. Make backups when requested at the end of labs for "restoration points" in case something goes wrong while performing a lab.
 
-**Always shut down your system under software control, rather than using the reset or power buttons. You can shutdown using the GUI or with the poweroff, reboot, init, or shutdown commands. Shut down your virtual machines before shutting down your main system.**
+**Always shut down your system under software control, rather than using the reset or power buttons. You can shutdown using the GUI or with the `poweroff`, `reboot`, `init`, or `shutdown` commands. Shut down your virtual machines before shutting down your main system.**
 
 ## Course Faculty
 
