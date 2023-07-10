@@ -41,7 +41,7 @@ Initial Report Requirements
 2. Limit access to this Google Doc to the following users:
 
     - All **group member Google Account accounts** (view and edit)
-    - Instructor's email: **anthony.austin@senecacollege.ca** (view only) **# Note: failure to provide instruct view permissions will result in loss of marks!**
+    - Instructor's email: **anthony.austin@senecacollege.ca** or **murray.saul@senecac.on.ca** (view only) **# Note: failure to provide instruct view permissions will result in loss of marks!**
 
 3. Include the following information in your group assignment group document:
 
@@ -50,7 +50,7 @@ Initial Report Requirements
     3. Explanation (justification) of why particular OS was selected for testing.
     4. A plan for assignment completion including a list of tasks to achieve the the person responsible for that assigned task.
 
-4. E-mail your instructor (**anthony.austin@senecacollege.on.ca**, subject line: **SEC520 - Assignment1**) a hypertext link to your group's assignment Google Document.
+4. E-mail your instructor (**anthony.austin@senecacollege.on.ca** or **murray.saul@senecac.on.ca**, subject line: **SEC520 - Assignment1**) a hypertext link to your group's assignment Google Document.
 
     - **NOTE**: Your instructor will provide feedback regarding this initial phase of the assignment. It is recommended to view the feedback to make certain your group is on the "right track".
 
