@@ -103,7 +103,7 @@ This is a website that is dedicated to internet security, and provides a platfor
     - Enter the following directive in the Google search box: **site:sensepost.com filetype:pdf hacking**
 
 8. What are the total amount of links? Are all of the links contained in sensepost.com? Record your findings in your log lab-book.
-9. Issue directives to search for links in the sensepost.com website that contains MS Word documents (**doc**), and MS Word PowerPoint Presentations (**ppt**) that contain the pattern hacking. Record these findings in your lab log-book.
+9. Issue directives to search for links in the _sensepost.com_ website that contains MS Word documents (**doc**), and MS Word PowerPoint Presentations (**ppt**) that contain the pattern hacking. Record these findings in your lab log-book.
 10. Finally, the **link** directive is used to display links that are associated with a target website. In order to display all websites that link to the _sensepost.com_ website, issue the following directive in the Google searchbox: **link:sensepost.com**
 11. Record the total number of links in your lab log-book. Are there any other links outside the sensepost.com domain that are associated? How do you think this is useful in terms of penetration testing?
 12. How do you think that you could use this information that you have just collected during this lab for penetration testing? (Record your answer in your lab log-book)
@@ -146,7 +146,7 @@ You may need to download the **BiLE** Utilities, consisting of useful Perl Scrip
 
 5. Issue the command: **which httrack** to confirm that this dependent application has been installed (refer to warning message above).
 6. In a web-browser, go to the following website (which will open in a separate browser window): http://github.com/sensepost/BiLE-suite
-7. Download the Perl Scripts called **BiLE.pl**, **BiLE-Weigh.pl**, and **tld-expand.pl** to your Kali Linux system.
+7. Download the _Perl Scripts_ called **BiLE.pl**, **BiLE-Weigh.pl**, and **tld-expand.pl** to your Kali Linux system.
 
 **Perl Scripts Containing Errors When Executed**
 
@@ -221,7 +221,11 @@ INSTRUCTIONS:
 
 You will be using the information collected in Task #1 to assist with obtaining User information in this task.
 
-**Install metagoofil program:** The harvester program is already installed in your Kali system, but you will need to install the program metagoofil. Issue the command (as root): **apt-get install metagoofil**
+**Install metagoofil program:** The harvester program is already installed in your Kali system, but you will need to install the program metagoofil. Issue the command (as root): 
+
+```bash
+apt-get install metagoofil
+```
 
 **INSTRUCTIONS:**
 
@@ -233,7 +237,7 @@ You will be using the information collected in Task #1 to assist with obtaining 
     - Output filename: **~/sensepost.user**
 
 2. Record any user information that you consider relevant (for penetration testing) in your lab log-book.
-3. For user information collected so far, use this information to see if you can access their profiles or other information on social media sites (eg. Facebook, Classmates, MySpace, Twitter, etc.).
+3. For user information collected so far, use this information to see if you can access their profiles or other information on social media sites (eg. _Facebook, Classmates, MySpace, Twitter_, etc.).
 4. Finally, we will be obtaining documents from the targeted network (via Google) that may help provide more information regarding the users.
 5. Issue the following command: **metagoofil --help** to learn how to run this script again with the following options:
 
