@@ -13,14 +13,14 @@ description: Lab 3 for Students to Complete and Submit
 
 This lab focuses on identifying and exploiteng a server's vulnerabilities in order to gain access to that system. Information assembled in the reconnaissance phase provides the data used in the **scanning & enumeration** phases.
 
-Students will obtain information from reconnaissance of their vulnerable VMs (IP_ADDRESS) and use _scanning_ & _enumeration_ to better map and then exploit their vulnerable _Linux_ and _Windows_ servers. They will do this in the following manner:
+Students will obtain information from reconnaissance of their vulnerable VMs (IP\_ADDRESS) and use _scanning_ & _enumeration_ to better map and then exploit their vulnerable _Linux_ and _Windows_ servers. They will do this in the following manner:
 
 1. Students will first use the **nmap** utility to scan a server to determine that the server is active (running). Verifying active servers can reduce the amount of scanning time to help avoid detection.
 2. The **nmap** utility will then be used to list various **services** (ports) that are running on a server.
 3. The student will perform enumeration (via **banner-grabbing**) to identify running services, and will perform **fingerprinting** to determine the version and type of the operating system on that targetted server.
 4. Once students have completed the _scanning_ & _enumeration_ phase, they will use that information to perform _vulnerability testing_ (using **Nessus** and **Metasploit**) to gain access to that targeted server.
 5. Finally, once students sign a waiver form and receive authorization to perform penetration testing on Seneca's **Tank** server, they can apply what they have learned in this lab on the Tank server. Students will also receive accounts to access this server for penetration testing...
-6. Once students have completed the scanning & enumeration phase, they will use that information to perform vulnerability testing (using **Nessus** and **Metasploit**) to gain access to that targeted server.
+6. Once students have completed the _scanning_ & _enumeration_ phase, they will use that information to perform _vulnerability testing_ (using **Nessus** and **Metasploit**) to gain access to that targeted server.
 
 ### Objectives
 
@@ -106,6 +106,9 @@ nmap -v -sn LINUX_IP_ADDRESS
 
 ```bash
 nmap -v -sU LINUX_IP_ADDRESS
+```
+
+```bash
 nmap -v -sU WINDOWS_IP_ADRESS
 ```
 
@@ -132,7 +135,7 @@ nmap -sS LINUX_IP_ADDRESS
 3. Repeat step 2, but view course notes and add an **option** to record findings in report file(s) called **/root/linux_vm_scan**
 4. The reports are created in 3 different formats. List those formats, and give a reason how these can be incorporated into a Security Audit Report.
 5. Repeat steps 2 and 3, generating similar reports for the Windows 2003 Server VM called **/root/windows_vm_scan.**
-6. Use what you have learned in task #2 to assemble a scanning report for your Linux and Windows VMs. These files must be available for your instructor to check when you have completed this lab.
+6. Use what you have learned in _task #2_ to assemble a scanning report for your Linux and Windows VMs. These files must be available for your instructor to check when you have completed this lab.
 7. Proceed to Task #3.
 
 **Answer Task #2 observations / questions in your lab log book.**
@@ -176,7 +179,7 @@ This section will reap the benefits from the previous phases of penetration test
 
 **Exploiting Local Systems: Nessus Server-Client:** This application is a server-client model that is run on the running server to determine its vulnerabilities. This application has the **nmap** utility built into the application, and allows for plugins to be added to enhance vulnerability testing. The Nessus server (**daemon**) must run first to allow the penetration test to graphically interface with the application (**client**).
 
-2. First you should register a free account on the **Nessus Website** in order to download plugins (and run the nessus server). To register, go to the following URL, and select home use: http://www.nessus.org/register/. Once you complete the registration form, an e-mail will be sent with a "one-time" ACTIVATION_CODE_# (you will need this in an up-coming step).
+2. First you should register a free account on the **Nessus Website** in order to download plugins (and run the nessus server). To register, go to the following URL, and select home use: http://www.nessus.org/register/. Once you complete the registration form, an e-mail will be sent with a "one-time" ACTIVATION\_CODE\_# (you will need this in an up-coming step).
 3. Next, in your host machine, open a shell terminal and issue the following command to install the **gdebi** application to allow you to automatically download and install debian packages by clicking on a .deb file link:
 
 ```bash
