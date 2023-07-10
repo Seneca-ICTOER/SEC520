@@ -91,7 +91,7 @@ Note: Each mission is progressively more difficult and requires you to understan
 - **Answers to the following questions** (each answer should have an appropriate heading title, and answer should be in paragraph form using appropriate spelling and grammar):
 
     1. At the main hackthissite.org page, in the upper left, click **Realistic Missions**. Take time to read those realistic missions. What do those missions say about the motivation and ethics (Ethics – a set of moral principles that guide human conduct) of the hacking community?
-    2. Open a browser and go to: en.wikipedia.org/wiki/Jeremy Hammond . Read about the life of Jeremy Hammond – what he did, how he did it, and what happened to him. Write a paragraph and address these points:
+    2. Open a browser and go to: [en.wikipedia.org/wiki/Jeremy Hammond](http://en.wikipedia.org/wiki/Jeremy_Hammond) . Read about the life of Jeremy Hammond – what he did, how he did it, and what happened to him. Write a paragraph and address these points:
 
         1. Was Jeremy Hammond an Ethical Hacker? Why or why not?
         2. Was Jeremy's sentencing fair? Should it have been more or less severe? Why?
@@ -117,8 +117,8 @@ Upon completion of the assignment, one group member is required to send an e-mai
     - Title Page (Listing of Group Member Names)
     - Appropriate answers to assignment questions
     - Appendix: Proof of Hacking Missions
-    - Additional Criteria:
-- Report Format / Appearance
+- Additional Criteria:
+    - Report Format / Appearance
     - Correct Page Breaks (to send Google Doc to printer)
     - Spelling & Grammar
     - Content
