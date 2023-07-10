@@ -71,7 +71,7 @@ description: Weekly Schedule for SEC520
 
 | Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
 | --- | --- | --- |
-| **Scanning, Enumeration, & Vulnerability Testing:** | **Slides (Concepts):** [\[odp\]](/slides/sec520_w2_l2.odp) [\[pdf\]](/slides/sec520_w2_l2.pdf) [\[ppt\]](/slides/sec520_w2_l2.ppt) Vulnerability Testing | Lab 3: Continue Working on [Lab 3](/A-Labs/lab3.md) |
+| **Scanning, Enumeration, & Vulnerability Testing:** | **Slides (Concepts):** [\[odp\]](/slides/sec520_w2_l2.odp) [\[pdf\]](/slides/sec520_w2_l2.pdf) [\[ppt\]](/slides/sec520_w2_l2.ppt) Vulnerability Testing | **Lab 3**: Continue Working on [Lab 3](/A-Labs/lab3.md) |
 | - Vulnerability Testing | **Reading References:** [Penetration Tester's Open Source Toolkit (E-book)](http://libcat.senecac.on.ca/vwebv/holdingsInfo?searchId=89542&recCount=50&recPointer=0&bibId=315433) (Chapter 3) |  |
 |  | **YouTube Videos:** |  |
 |  | - [Vulnerability Testing - Overview](https://www.youtube.com/watch?v=FMgAIfcPsyw) |  |
@@ -103,7 +103,7 @@ description: Weekly Schedule for SEC520
 
 | Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
 | --- | --- | --- |
-| **Moved until after the break** | **Slides (Concepts):** | Assignment #1: [Assignment Instructions](/B-Assignments/assignment1.md) |
+| **Moved until after the break** | **Slides (Concepts):** | **Assignment #1**: [Assignment Instructions](/B-Assignments/assignment1.md) |
 | **Hardening Windows 7/8/10:** | [\[odp\]](/slides/sec520_w3_l1.odp) [\[pdf\]](/slides/sec520_w3_l1.pdf) [\[ppt\]](/slides/sec520_w3_l1.ppt) Hardening - Basic Concepts | Continue working on [Lab 4](/A-Labs/lab4.md) and install Webgoat |
 | - Installing and Configuring Security Configuration Wizard | [\[odp\]](/files/sec520_lab5.odp) [\[pdf\]](/files/sec520_lab5.pdf) [\[ppt\]](/files/sec520_lab5.pptx) Hardening Windows | Quiz 2 (February 22) |
 | - Using New Technology File System (NTSF) | **Reading References:** |  |
