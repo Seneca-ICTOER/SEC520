@@ -117,10 +117,9 @@ Just for Interest, it is not that difficult to obtain SOME information regarding
 
 **Answer the Task #1 observations / questions in your lab log book.**
 
-### Task #2: Server Detection, Link Analysis & Domain Name Expansion
+### Task #2: Server Detection, Link Analysis, and Domain Name Expansion
 
-In this section, we will use the site information (obtained from _Task #1_) to gain more detailed information regarding the targeted organization's server (eg. IP address, Type of operating system, History of uptimes, name server information , Related IP addresses of other servers).
-
+In this section, we will use the site information (obtained from _Task #1_) to gain more detailed information regarding the targeted organization's server (eg. IP address, Type of operating system, History of uptimes, name server information, Related IP addresses of other servers).
 
 **INSTRUCTIONS:**
 
@@ -190,7 +189,7 @@ If you run the **BiLE-Weigh.pl** command, and encounter the above error, then ma
 17. Record the various name servers that are listed in your lab log-book.
 18. Create an input file called **sensepost.com.domains.txt**, and place any domain names that you have discovered, and then save and exit editing session.
 19. Issue the command: **perl tld-expand.pl sensepost.com.domains.txt sensepost.com.domains.variations.txt**. What do these variations represent in terms of reconnaissance? Record your finds in your lab log-book.
-Proceed to Task #3
+20. Proceed to Task #3
 
 **Answer Task #2 observations / questions in your lab log book.**
 
