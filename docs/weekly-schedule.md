@@ -104,8 +104,8 @@ description: Weekly Schedule for SEC520
 | Learning Objectives and Tasks | Course Notes / Assigned Reading | Labs/Evaluations |
 | --- | --- | --- |
 | **Moved until after the break** | **Slides (Concepts):** | **Assignment #1**: [Assignment Instructions](/B-Assignments/assignment1.md) |
-| **Hardening Windows 7/8/10:** | [\[odp\]](/slides/sec520_w3_l1.odp) [\[pdf\]](/slides/sec520_w3_l1.pdf) [\[ppt\]](/slides/sec520_w3_l1.ppt) Hardening - Basic Concepts | Continue working on [Lab 4](/A-Labs/lab4.md) and install Webgoat |
-| - Installing and Configuring Security Configuration Wizard | [\[odp\]](/files/sec520_lab5.odp) [\[pdf\]](/files/sec520_lab5.pdf) [\[ppt\]](/files/sec520_lab5.pptx) Hardening Windows | Quiz 2 (February 22) |
+| **Hardening Windows 7/8/10:** | - [\[odp\]](/slides/sec520_w3_l1.odp) [\[pdf\]](/slides/sec520_w3_l1.pdf) [\[ppt\]](/slides/sec520_w3_l1.ppt) Hardening - Basic Concepts | Continue working on [Lab 4](/A-Labs/lab4.md) and install Webgoat |
+| - Installing and Configuring Security Configuration Wizard | - [\[odp\]](/files/sec520_lab5.odp) [\[pdf\]](/files/sec520_lab5.pdf) [\[ppt\]](/files/sec520_lab5.pptx) Hardening Windows | Quiz 2 (February 22) |
 | - Using New Technology File System (NTSF) | **Reading References:** |  |
 | - Configuring Automatic Updates | - [Intrusion Discovery - Windows](https://www.sans.org/media/score/checklists/ID-Windows.pdf) |  |
 | **Test #1: Details, March 6th** | - [Hardening Windows, 2nd Edition](http://lcweb.senecac.on.ca:2052/toc.aspx?site=RYW9D&bookid=12602) (Chapter 5 - Pages:) |  |
