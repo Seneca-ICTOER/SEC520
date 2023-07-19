@@ -7,7 +7,7 @@ description: Lab 3 for Students to Complete and Submit
 
 # Lab 3
 
-## Scanning, Enumeration & Vulnerability Testing
+## Scanning, Enumeration, and Vulnerability Testing
 
 ### Introduction
 
@@ -34,7 +34,7 @@ Students will obtain information from reconnaissance of their vulnerable VMs (IP
 ### Required Materials (Bring to All Labs)
 
 - **SATA Hard Disk** (in removable disk tray).
-- **Lab Logbook** (Lab3 Reference Sheet) (to make notes and observations).
+- **Lab Logbook (Lab3 Reference Sheet)** (to make notes and observations).
 
 ### Prerequisites
 
