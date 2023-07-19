@@ -99,7 +99,7 @@ gdebi [filename]
 
 **Answer the Task #1 observations / questions in your lab log book.**
 
-### Task #2: Install / Setup Vulnerable Linux OS as a Virtual Machine
+### Task #2: Install and Setup Vulnerable Linux OS as a Virtual Machine
 
 **Other Vulnerable Linux Distributions:** Although we will be using an outdate version of Fedora Linux, there are other Linux distributions of Linux that are designed with security flaws for penetration testing. An example would be **DVL** (_Damn Vulnerable Linux_). For interest, here is a link to download and install DVL: http://sourceforge.jp/projects/sfnet_virtualhacking/downloads/os/dvl/DVL_1.5_Infectious_Disease.iso/.
 
@@ -174,7 +174,7 @@ You should become familiar with the `/sbin/service` , `/sbin/chkconfig` , and `/
 
 **Answer Task #2 observations / questions in your lab log book.**
 
-### Task #3: Install / Setup Windows 2003 Server as a Virtual Machine
+### Task #3: Install and Setup Windows 2003 Server as a Virtual Machine
 
 **DO NOT Install Service Packs (Beyond Service Pack 1) On Windows 2003 Server:** Since this course will be exploring security issues with the Windows operating systems, do not update your Window 2003 Server's OS. We will be exploiting this less-secure OS, then later "harden" this OS from attacks.
 
