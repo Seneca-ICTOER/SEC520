@@ -30,7 +30,7 @@ In this lab, students will learn **other methods of vulnerability testing** to g
 ### Required Materials (Bring to All Labs)
 
 - **SATA Hard Disk** (in removable disk tray).
-- **Lab Logbook (Lab6 Reference Sheet)** (to make notes and observations).
+- **Lab Logbook (Lab4 Reference Sheet)** (to make notes and observations).
 
 ### Prerequisites
 
