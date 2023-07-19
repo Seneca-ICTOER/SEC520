@@ -28,7 +28,7 @@ In the previous two labs, you should have learned how to penetrate your vulnerab
 ### Required Materials (Bring to All Labs)
 
 - **SATA Hard Disk** (in removable disk tray).
-- **Lab Logbook (Lab4 Reference Sheet)** (to make notes and observations).
+- **Lab Logbook (Lab5 Reference Sheet)** (to make notes and observations).
 
 ### Prerequisites
 
@@ -206,7 +206,7 @@ Here is a link to this application: https://ossec.github.io/
 
 **Answer Task #3 observations / questions in your lab log book.**
 
-### Task #4: Apply / Automate Software Updates
+### Task #4: Apply and Automate Software Updates
 
 **INSTRUCTIONS:**
 
