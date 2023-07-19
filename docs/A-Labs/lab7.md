@@ -26,7 +26,7 @@ description: Lab 7 for Students to Complete and Submit
 ### Required Materials (Bring to All Labs)
 
 - **SATA Hard Disk** (in removable disk tray).
-- **Lab Logbook (Lab5 Reference Sheet)** (to make notes and observations).
+- **Lab Logbook (Lab7 Reference Sheet)** (to make notes and observations).
 
 ### Prerequisites
 
