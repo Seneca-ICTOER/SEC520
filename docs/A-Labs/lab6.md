@@ -26,7 +26,7 @@ description: Lab 6 for Students to Complete and Submit
 ### Required Materials (Bring to All Labs)
 
 - **SATA Hard Disk** (in removable disk tray).
-- **Lab Logbook (Lab4 Reference Sheet)** (to make notes and observations).
+- **Lab Logbook (Lab6 Reference Sheet)** (to make notes and observations).
 
 ### Prerequisites
 
@@ -47,7 +47,7 @@ description: Lab 6 for Students to Complete and Submit
 
 ## Performing Lab 6
 
-### Task #1: Locking Down Bootup / Performing System Updates
+### Task #1: Locking Down Bootup and Performing System Updates
 
 **Locking Down the Server's BIOS:** The system adminstrator should prevent the server's BIOS from booting from removable drives, and setup a BIOS password to limit access to editing the server's BIOS. Since you are using the college's computers, you are not able to lock down the BIOS, but it is worth mentioning when you are securing computers in the future.
 
@@ -116,7 +116,7 @@ It is also important to perform **operating system upgrades** when officially re
 
 **Answer the Task #1 observations / questions in your lab log book.**
 
-### Task #2: Closing Unnecessary Ports / Using SSH
+### Task #2: Closing Unnecessary Ports and Using SSH
 
 In this section, you will either close or prevent unnecessary ports (services) from running and **mask some running services** (such as SSH) in order to make your Linux system less vulnerable.
 
